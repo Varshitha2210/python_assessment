@@ -156,18 +156,18 @@
 
     A. Named arguments
 
-    B✅. Arbitrary keyword arguments
+    B. Arbitrary keyword arguments
 
-    C. Variable positional arguments
+    C✅. Variable positional arguments
 
     D. No arguments
 
 
 16. **What is the output of: print([1,2,3] is [1,2,3])?** 
 
-    A✅. True
+    A. True
 
-    B. False
+    B✅. False
 
     C. [1,2,3]
 
